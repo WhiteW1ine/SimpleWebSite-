@@ -1,0 +1,45 @@
+.story {
+    color: white;
+    font-size: 25px;
+}
+
+.story p{
+  font-size: 25px;
+}
+
+.main_story {
+    height: 1500px;
+    margin: 8px;
+}
+
+.wrapinging_left {
+
+  float: left;
+  margin: 5px;
+  height: auto;
+  max-width: 100%;
+
+}
+
+
+
+.wrapingimg_right {
+    float: right;
+    margin: 5px;
+    height: auto;
+    max-width: 50%;
+}
+
+.text_footer {
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 550px;  
+    color: white;
+    border: 20px solid black;
+}
+.text_footer img {
+    height: auto;
+    max-width: 20%;
+}
