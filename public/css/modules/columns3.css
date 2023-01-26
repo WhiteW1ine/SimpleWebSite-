@@ -1,5 +1,5 @@
 .main_columns {
-    height: 2500px;
+    height: auto;
   }
   
   .three_columns {
@@ -34,8 +34,8 @@
   .column_aside a {
     justify-content: center;
     align-self: center;
-    width: 100px;
-    height: 100px;
+    width: auto;
+    height: auto;
   }
   
   .column_aside a img {

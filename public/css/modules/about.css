@@ -24,6 +24,7 @@
     align-self: center;
     max-width: 50%;
     height: auto;
+    padding: 20px;
   }
   
   .main_part p {
@@ -50,6 +51,6 @@
   }
   
   .main_about {
-    height: 1000px;
+    height: auto;
     padding: 5px;
   }
