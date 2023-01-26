@@ -34,12 +34,19 @@
     align-items: center;
     justify-items: center;
     display: flex;
-    flex-direction: column;
-    height: 550px;  
+    flex-direction: row-reverse;
+    height: auto;
+    width: 100%; 
     color: white;
-    border: 20px solid black;
+    border: 10px solid rgb(29, 12, 96);
 }
+
+.text_footer i {
+    padding: 20px;
+}
+
 .text_footer img {
     height: auto;
     max-width: 20%;
+    padding: 20px;
 }
