@@ -1,52 +1,50 @@
 .story {
-    color: white;
-    font-size: 25px;
+  color: white;
+  font-size: 25px;
 }
 
-.story p{
+.story p {
   font-size: 25px;
 }
 
 .main_story {
-    height: auto;
-    margin: 8px;
+  height: auto;
+  margin: 8px;
 }
 
 .wrapinging_left {
-
   float: left;
   margin: 5px;
   height: auto;
   max-width: 100%;
-
 }
 
 
 
 .wrapingimg_right {
-    float: right;
-    margin: 5px;
-    height: auto;
-    max-width: 50%;
+  float: right;
+  margin: 5px;
+  height: auto;
+  max-width: 50%;
 }
 
 .text_footer {
-    align-items: center;
-    justify-items: center;
-    display: flex;
-    flex-direction: row-reverse;
-    height: auto;
-    width: 100%; 
-    color: white;
-    border: 10px solid rgb(29, 12, 96);
+  align-items: center;
+  justify-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+  height: auto;
+  width: 100%;
+  color: white;
+  border: 10px solid rgb(29, 12, 96);
 }
 
 .text_footer i {
-    padding: 20px;
+  padding: 20px;
 }
 
 .text_footer img {
-    height: auto;
-    max-width: 20%;
-    padding: 20px;
+  height: auto;
+  max-width: 20%;
+  padding: 20px;
 }
